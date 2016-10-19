@@ -1,0 +1,2 @@
+# psi
+Podstawy sztucznej inteligencji
